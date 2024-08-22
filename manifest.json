@@ -5,7 +5,7 @@
         "name": "Unifont 15.1.05 Hangul Glyphs",
         "uuid": "9cdbd536-0bb3-49bc-87cf-26dad68a8ec6",
         "version": [1, 21, 0],
-        "min_engine_version": [1, 21, 20]
+        "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
