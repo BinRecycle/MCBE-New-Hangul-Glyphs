@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "한글 글리프를 Unifont 15.1.05 버전으로 변경합니다.\n§c§l참고§r: 최초 적용 시 자간이 좁아지는 문제가 있습니다.\n이 경우, 월드에 접속하면 해결됩니다.",
+        "name": "Unifont 15.1.05 Hangul Glyphs",
+        "uuid": "9cdbd536-0bb3-49bc-87cf-26dad68a8ec6",
+        "version": [1, 21, 0],
+        "min_engine_version": [1, 21, 20]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "c4a4a327-e415-478b-a538-0eb870623b9d",
+            "version": [1, 21, 0]
+        }
+    ],
+    "metadata": {
+        "authors": ["BinRecycle"]
+    }
+}
